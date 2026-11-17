@@ -8,17 +8,6 @@
 - **İşlemci:** MediaTek Helio G99 (MT6789)
 - **İşletim Sistemi:** Android 14 (Upside Down Cake)
 - **Derleme Numarası (Build):** `VIA_X40_20250312_c2.01`
-
----
-
-## 📥 İndirme Bağlantıları
-Kendi cihazımdan BROM modu üzerinden bizzat yedeklediğim orijinal, değiştirilmemiş stock boot imajlarıdır.
-
-| Partition / Slot | Dosya Adı | İndirme Linki |
-| :--- | :--- | :--- |
-| **Partition A** | `boot_a.img` | [MediaFire İndir](https://www.mediafire.com/file/44ifwx43hmkyee7/VIA_X40_20250312_c2.01_boot_a.img/file) |
-| **Partition B** | `boot_b.img` | [MediaFire İndir](https://www.mediafire.com/file/lm3mm5cdk2axwgu/VIA_X40_20250312_c2.01_boot_b.img/file) |
-
 ---
 
 ## 🌐 English Description
@@ -32,12 +21,13 @@ Kendi cihazımdan BROM modu üzerinden bizzat yedeklediğim orijinal, değiştir
 - **OS:** Android 14 (Upside Down Cake)
 - **Build Number:** `VIA_X40_20250312_c2.01`
 
----
+- 
+## 📥 İndirme Bağlantıları / Download Links
+Kendi cihazımdan BROM modu üzerinden bizzat yedeklediğim orijinal, değiştirilmemiş stock boot imajlarıdır.
 
-### 📥 Download Links
 Original, unmodified stock boot images dumped directly from my own device via BROM mode.
 
-| Partition / Slot | File Name | Download Link |
+| Partition / Slot | Dosya Adı / File Name | İndirme Linki / Download Link |
 | :--- | :--- | :--- |
-| **Partition A** | `boot_a.img` | [Download via MediaFire](https://www.mediafire.com/file/44ifwx43hmkyee7/VIA_X40_20250312_c2.01_boot_a.img/file) |
-| **Partition B** | `boot_b.img` | [Download via MediaFire](https://www.mediafire.com/file/lm3mm5cdk2axwgu/VIA_X40_20250312_c2.01_boot_b.img/file) |
+| **Partition A** | `boot_a.img` | [Download via MediaFire](https://www.mediafire.com/file/44ifwx43hmkyee7/boot_a.img/file) |
+| **Partition B** | `boot_b.img` | [Download via MediaFire](https://www.mediafire.com/file/lm3mm5cdk2axwgu/boot_b.img/file) |
